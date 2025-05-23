@@ -42,3 +42,9 @@ OS - OpenOS
 Additional Info
 
 This is really if u dont want to use a server for some reason and this will technically run smoother than its tier 1 server counterpart but is far more expensive because for some reason the Tier 1 Computer doesnt like the Motion_Sensor part of the code
+
+# INSTALLATION
+
+Once OpenOS is installed paste your version into your pc (middle click) and once it is installed edit it by tpying "edit MotionSens" and look for the webhook url part and paste ur webhook url
+
+V1 -  pastebin get JRSu4buv MotionSens
