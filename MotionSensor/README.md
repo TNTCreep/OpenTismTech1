@@ -50,3 +50,7 @@ This is really if u dont want to use a server for some reason and this will tech
 Once OpenOS is installed paste your version into your pc (middle click) and once it is installed edit it by tpying "edit MotionSens" and look for the webhook url part and paste ur webhook url
 
 V1 -  pastebin get JRSu4buv MotionSens
+
+# Common issues
+
+there is a error where it says something about a motion sensor not being found or something this is because ur motion sensor is not connected to ur monitor via a cable so connect it to the monitor not the pc
