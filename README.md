@@ -11,3 +11,5 @@ Cell-FS - Graphical file management thingy
 SecuCodex+ - Keypad system - WIP
 
 SecuROM+ - Codelocked pc basically - WIP
+
+AE2SCCPU - WIP
