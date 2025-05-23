@@ -4,6 +4,8 @@ Motion sensor uses the opencomputers Motion Sensor and sends the information to 
 
 Requires a direct line of sight to the player and seems to send around like every 5 ticks if it feels like it idk its kinda weird
 
+although V1 is finished it is no where near refined by any means and has no operational gui of configuartion shit so dont get high expectations. all it does is send messages and not crash
+
 # Motion Sens V1
 
 Minimum Requirements
