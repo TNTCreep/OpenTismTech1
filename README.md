@@ -8,7 +8,7 @@ MotionSens - sends messages to discord when a motion sensor detects something vi
 
 Cell-FS - Graphical file management thingy
 
-SecuCodex+ - Keypad system - WIP
+SecuCODEX+ - Keypad system - WIP
 
 SecuROM+ - Codelocked pc basically - WIP
 
