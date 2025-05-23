@@ -137,7 +137,7 @@ function topBar()
   gpu.setBackground(0xDDDDDD)
   gpu.setForeground(0x00DD44)
   gpu.fill(1, 1, w, 1, " ")
-  gpu.set(2, 1, "Cell v0.12")
+  gpu.set(2, 1, "Cell-FS Beta")
   gpu.set(w - 3, 1, "Exit")
 end
 
