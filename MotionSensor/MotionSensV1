@@ -51,6 +51,6 @@ while true do
         print(message)
         sendDiscordMessage(message)
     else
-        print("Motion event triggered but no uuid found ERROR2 Report to TNT")
+        print("Motion event triggered but no uuid found ERROR2")
     end
 end
