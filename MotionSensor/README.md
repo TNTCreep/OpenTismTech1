@@ -57,4 +57,8 @@ V1 -  pastebin get JRSu4buv MotionSens
 
 # Common issues
 
+V1 Issues
+
 there is a error where it says something about a motion sensor not being found or something this is because ur motion sensor is not connected to ur monitor via a cable so connect it to the monitor not the pc
+
+V2 Issues
