@@ -53,6 +53,7 @@ installer.lua
 Other Versions - Coloured Modes
 
 Graphite - wget https://raw.githubusercontent.com/TNTCreep/OpenTismTech1/refs/heads/main/Cell-FS/installergraphite.lua installergraphite.lua
+installergraphite.lua
 
 once installed type "installer.lua" to open up the installer program then you are asked to select a install location so if your lazy and new just type /home but if ur not do it wherever you wish
 
