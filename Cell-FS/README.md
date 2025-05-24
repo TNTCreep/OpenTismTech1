@@ -50,6 +50,10 @@ you could use the tier 3 APU but it will give you the same graphical issues as t
 paste in pc - wget https://raw.githubusercontent.com/TNTCreep/OpenTismTech1/refs/heads/main/Cell-FS/installer.lua installer.lua
 installer.lua
 
+Other Versions - Coloured Modes
+
+Graphite - wget https://raw.githubusercontent.com/TNTCreep/OpenTismTech1/refs/heads/main/Cell-FS/installergraphite.lua installergraphite.lua
+
 once installed type "installer.lua" to open up the installer program then you are asked to select a install location so if your lazy and new just type /home but if ur not do it wherever you wish
 
 # Common Issues
