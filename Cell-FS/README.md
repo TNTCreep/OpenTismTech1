@@ -65,3 +65,5 @@ installerscorched.lua
 please keep in mind this is not completed :P
 
 - clicking in the bottom left area kills the code and requires the pc to be rebooted
+
+- Graphite and Scorched Toast installers refuse to work sometimes
