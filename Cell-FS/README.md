@@ -54,7 +54,7 @@ once installed type "installer.lua" to open up the installer program then you ar
 
 Other Versions - Coloured Modes
 
-Graphite - wget https://raw.githubusercontent.com/TNTCreep/OpenTismTech1/refs/heads/main/Cell-FS/installergraphite.lua installergraphite.lua
+Graphite - wget https://raw.githubusercontent.com/TNTCreep/OpenTismTech1/refs/heads/main/Cell-FS/colouredmod/installergraphite.lua installergraphite.lua
 installergraphite.lua
 
 Scorched Toast - wget https://raw.githubusercontent.com/TNTCreep/OpenTismTech1/refs/heads/main/Cell-FS/colouredmod/installerscorched.lua installerscorched.lua
