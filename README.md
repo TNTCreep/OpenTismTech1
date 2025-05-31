@@ -1,15 +1,31 @@
 # OpenTismTech1
 
-bunch of shit ive legally acquired or used all one braincell to write
+bunch of shit ive "legally" acquired or used all one braincell to write
 
 Currently Contains
 
-MotionSens - sends messages to discord when a motion sensor detects something via a webhook
+MotionSens - V1.0.2
 
-Cell-FS - Graphical file management thingy
+Cell-FS - Beta
 
-SecuCODEX+ - Keypad system - WIP
+SecuCODEX+ -WIP
 
-SecuROM+ - Codelocked pc basically - WIP
+SecuROM+ - WIP
 
 AE2SCCPU - WIP
+
+OpenRBMK - Alpha
+
+# More Info
+
+MotionSens - Uses the opencomputers motion sensors and discord webhooks to send messages directly into a channel. Supports multiple sensors and requires tier 2 parts. V1.0.2
+
+Cell-FS - Graphical File Management System not much else to say basically just a shittier version of file explorer. Comes with multiple colours :D (colours are not perfect) - Beta 1
+
+SecuCODEX+ - Upgraded version of SecuCODEX - WIP
+
+SecuROM+ - Upgraded version of SecuCODEX - WIP
+
+AE2SCCPU - WIP on hold
+
+OpenRBMK - Opencomputer compatibility with a HBM NTM Extended RBMK. Alpha
