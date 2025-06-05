@@ -16,6 +16,8 @@ AE2SCCPU - WIP
 
 OpenRBMK - Alpha
 
+TismLibary - WIP
+
 # More Info
 
 MotionSens - Uses the opencomputers motion sensors and discord webhooks to send messages directly into a channel. Supports multiple sensors and requires tier 2 parts. V1.0.2
@@ -29,3 +31,5 @@ SecuROM+ - Upgraded version of SecuCODEX - WIP
 AE2SCCPU - WIP on hold
 
 OpenRBMK - Opencomputer compatibility with a HBM NTM Extended RBMK. Alpha
+
+TismLibary - installer for all my installers
