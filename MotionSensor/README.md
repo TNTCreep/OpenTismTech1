@@ -47,7 +47,7 @@ This is really if u dont want to use a server for some reason and this will tech
 
 # MotionSensV2
 
-this is a work in progress and aims to be a more refined version that will gather more information and store it on the pc aswell and be able to support and identify multiple motion sensors (without dying randomly)
+BETA
 
 # INSTALLATION
 
