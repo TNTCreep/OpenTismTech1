@@ -4,7 +4,7 @@ bunch of shit ive "legally" acquired or used all one braincell to write
 
 Currently Contains
 
-MotionSens - V1.0.2
+MotionSens - V2.1.5
 
 Cell-FS - Beta
 
